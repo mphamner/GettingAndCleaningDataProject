@@ -1,6 +1,8 @@
 # GettingAndCleaningDataProject
 coursera Getting and Cleaning Data course project
 
+Final Tidy Dataset in averageData.txt
+
 Instructions for the Project (copied from the Coursera Getting and Cleaning Data webpage):
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 Review criteria 
